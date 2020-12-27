@@ -11,3 +11,7 @@ function Human(){
 Human.prototype.eat = function(food){
     this.stomach.push(food)
 }
+
+function jump(){
+    console.log('Jump!')
+}
