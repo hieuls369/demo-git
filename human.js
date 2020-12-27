@@ -15,3 +15,7 @@ Human.prototype.eat = function(food){
 function jump(){
     console.log('Jump!')
 }
+
+function swim(){
+    console.log('Swimming!~~')
+}
